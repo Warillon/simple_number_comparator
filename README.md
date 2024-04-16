@@ -7,7 +7,7 @@ Create by Albert GRAUENFELS (Warillon, 2024)
 You can use "main.exe" for Windows.
 
 ## Step 1.
-	Mark your first number
+	Mark your first number.
 ## Step 2.
 	Mark your second number.
 ## Step 3.
